@@ -1,4 +1,2 @@
 # AnalysTextProject
-Данный проект включает в себя файлы с дообучением двух нейронных сетей - BERT и ROBERTA, 
-а так же в папке pythonProject лежит телеграм бот с дообученной сетью ROBERTA.
-К сожалению мы не смогли запушить файл сети в боте в репозиторий, т.к. файл слишком большой.
+This project includes files with retraining of two neural networks - BERT and ROBERTA, and also in the pythonProject folder there is a telegram bot with a retrained ROBERTA network. Unfortunately, we were unable to push the network file in the bot to the repository, because the file is too big.
